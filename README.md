@@ -12,6 +12,7 @@
 
 
   <img align="right" alt="image" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png" width="150px" height="150px"/>
+    <img align="right" alt="image" src="https://assets.zabbix.com/img/brands/active_directory.svg" width="150px" height="150px"/>
 
 **About me**
 - 💼 Still in the apprenticeship
