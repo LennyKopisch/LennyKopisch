@@ -6,7 +6,7 @@
 <br /> 
 
 **🚀 Software Engineering**<br />
-**🚀 System Administration**<br />
+**🚀 System Administration**<br /> 
 **🚀 System Integration**<br />
 **📍 Düsseldorf**
 
