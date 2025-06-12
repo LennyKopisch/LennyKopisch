@@ -15,7 +15,7 @@ __**🚀 System Integration**__<br />
     <img align="right" alt="image" src="https://assets.zabbix.com/img/brands/active_directory.svg" width="150px" height="150px"/>
 
 **About me**
-- 💼 Still in the apprenticeship
+- 💼 ab-data
 - 💬 Feel free to contact me
 
 
