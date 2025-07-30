@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 - 🏢 Derzeit bei **ab-data**
-- 🎥 Creator von **[BetterAdmin](https://www.youtube.com/@BetterAdmin)** – YouTube-Kanal mit praktischen Tutorials rund um IT & DevOps
+- 🎥 Creator von **[BetterAdmin](https://www.youtube.com/@BetterAdmin)**
 - 🛠️ Leidenschaft für Automatisierung, Monitoring, Infrastruktur as Code & Netzwerke
 - 📬 Kontakt? Feel free to reach out!
 
