@@ -14,7 +14,6 @@
 
 ---
 
-<img align="right" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png" width="120px" height="120px" />
 
 ### 👨‍💻 About Me
 - 🏢 Derzeit bei **ab-data**
