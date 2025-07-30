@@ -1,36 +1,48 @@
-<h3 title="welcome"> Welcome to my Profile 👋</h3>
- 
-  
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=red" align="left">
-<br />
-<br /> 
+<h3 title="Welcome">👋 Welcome to my GitHub Profile</h3>
 
-**🚀 Software Engineering**<br />
-**🚀 System Administration**<br /> 
-__**🚀 System Integration**__<br />
-**📍 Near Düsseldorf**
+<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=red" align="left" />
 
+<br /><br />
 
-  <img align="right" alt="image" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png" width="150px" height="150px"/>
-    <img align="right" alt="image" src="https://assets.zabbix.com/img/brands/active_directory.svg" width="150px" height="150px"/>
+**🚀 DevOps | Systemintegration | Automatisierung**<br />
+**🖥️ Systemadministration | IT-Infrastruktur**<br />
+**📍 Nähe Düsseldorf (Germany)**
 
-**About me**
-- 💼 ab-data
-- 💬 Feel free to contact me
+<a href="https://www.youtube.com/@BetterAdmin" target="_blank">
+  <img align="right" src="https://img.shields.io/badge/YouTube-BetterAdmin-red?style=for-the-badge&logo=youtube" alt="YouTube Channel" />
+</a>
 
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
- 
+<img align="right" src="https://assets.zabbix.com/img/brands/active_directory.svg" width="120px" height="120px" />
+<img align="right" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png" width="120px" height="120px" />
 
-Last Edited on: 23/09/2020
+### 👨‍💻 About Me
+- 🏢 Derzeit bei **ab-data**
+- 🎥 Creator von **[BetterAdmin](https://www.youtube.com/@BetterAdmin)** – YouTube-Kanal mit praktischen Tutorials rund um IT & DevOps
+- 🛠️ Leidenschaft für Automatisierung, Monitoring, Infrastruktur as Code & Netzwerke
+- 📬 Kontakt? Feel free to reach out!
 
- 
- 
+---
+
+### 🧰 Tech Stack & Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+
+---
+
+🛠️ *Last updated: 30.07.2025*
+
+---
+
